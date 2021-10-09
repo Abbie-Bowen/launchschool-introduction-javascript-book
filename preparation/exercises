@@ -1,0 +1,33 @@
+/*
+
+5. Identify the Constructors for each of the following methods and
+classify each method as either static or prototype method.
+    method  -  Constructor - method type
+    substring - string - prototype
+    create - object - static
+    fromCharCode - string - static
+    slice - array, string - prototype
+    toString -  string, object, array, number - prototype
+
+
+6. Which satisfy the style guidelines for variable names (not constants)?
+index yes
+snake_case yes (actually, no)
+lazyDog yes
+operand2 no (actually, yes)
+
+7. Which satisfy the style guidelines for function names?
+index yes
+CatName no (actually yes--for constructor functions)
+lazyDog yes
+operand2 no (actually, yes--i guess they can only not start with numbers)
+
+
+8. Which satisfy the style guidelines for constants used for magic numbers?
+BIG_NUMBER yes
+
+9. Which of the following names DON't satisfy guidelines for variables,
+functions, or constants?
+snake_case and quick_Fox (could be permitted for constant names, if they were uppercase)
+1stCharacter not at all.
+*/
