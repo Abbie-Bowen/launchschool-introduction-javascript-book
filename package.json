@@ -1,0 +1,23 @@
+{
+  "name": "launchschool-introduction-javascript-book",
+  "version": "1.0.0",
+  "description": "Introduction to Javascript work space.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abbie-Bowen/launchschool-introduction-javascript-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abbie-Bowen/launchschool-introduction-javascript-book/issues"
+  },
+  "homepage": "https://github.com/Abbie-Bowen/launchschool-introduction-javascript-book#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
